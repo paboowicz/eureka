@@ -3845,6 +3845,7 @@ button.tm-videobutton:hover span {
 
 .about-contentbottom {
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .about-contentbottom .tm-button,
@@ -6286,6 +6287,10 @@ button.tm-videobutton:hover span {
 
 .tm-missvis-image {
   margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
 
 .tm-missvis-content {
@@ -7159,4 +7164,23 @@ button.tm-videobutton:hover span {
   }
 }
 
+
 /*# sourceMappingURL=style.css.map */
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+
