@@ -3830,9 +3830,11 @@ button.tm-videobutton:hover span {
  */
 .about-us-area {
   position: relative;
+  text-align: justify;
 }
 
-.about-content {
+.
+ {
   margin-top: -8px;
 }
 
@@ -3911,6 +3913,7 @@ button.tm-videobutton:hover span {
   }
   .about-content-2 {
     margin-top: 30px;
+	text-align: justify;
   }
   .about-videobox {
     padding: 0;
@@ -3927,6 +3930,7 @@ button.tm-videobutton:hover span {
   }
   .about-content-2 {
     margin-top: 30px;
+	text-align: justify;
   }
   .about-videobox {
     padding: 0;
