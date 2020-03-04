@@ -440,24 +440,24 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #000000;
   font-weight: 400;
 }
 
 ::-webkit-input-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 :-moz-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 ::-moz-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 :-ms-input-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 h1,
@@ -639,7 +639,7 @@ textarea {
   -webkit-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  color: #444444;
+  color: #000000;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -647,28 +647,28 @@ input::-webkit-input-placeholder,
 button::-webkit-input-placeholder,
 select::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 input:-moz-placeholder,
 button:-moz-placeholder,
 select:-moz-placeholder,
 textarea:-moz-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 input::-moz-placeholder,
 button::-moz-placeholder,
 select::-moz-placeholder,
 textarea::-moz-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 input:-ms-input-placeholder,
 button:-ms-input-placeholder,
 select:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 input:focus, input:active,
@@ -799,7 +799,7 @@ blockquote footer a:hover {
   top: 7px;
   font-size: 16px;
   line-height: 1;
-  color: #444444;
+  color: #dc3545;
 }
 
 .stylish-list-color li::before {
@@ -1193,7 +1193,7 @@ input[type=radio]:checked ~ label::before {
 [data-secondary-overlay="4"]:before,
 [data-black-overlay="4"]:before,
 [data-white-overlay="4"]:before {
-  opacity: 0.4;
+  opacity: 0;
 }
 
 [data-overlay="4.5"]:before,
@@ -1828,7 +1828,7 @@ a.tm-button.tm-button-white,
 button.tm-button.tm-button-white {
   background: #ffffff;
   border-color: #ffffff;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-button.tm-button-white::before,
@@ -2124,7 +2124,7 @@ button.tm-videobutton:hover span {
   height: 15px;
   width: 15px;
   margin-right: 0;
-  color: #444444;
+  color: #000000;
   line-height: 1;
 }
 
@@ -2474,7 +2474,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-tabgroup2 li a {
-  color: #444444;
+  color: #000000;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
@@ -2665,7 +2665,7 @@ button.tm-videobutton:hover span {
 
 .tm-pagination ul li a {
   display: inline-block;
-  color: #444444;
+  color: #000000;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 18px;
@@ -2737,7 +2737,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-comment-replybutton {
-  color: #444444;
+  color: #000000;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
@@ -2899,7 +2899,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-form-field a {
-  color: #444444;
+  color: #000000;
 }
 
 .tm-form-field a:hover {
@@ -2916,25 +2916,25 @@ button.tm-videobutton:hover span {
 .tm-form input::-webkit-input-placeholder,
 .tm-form textarea::-webkit-input-placeholder,
 .tm-form select::-webkit-input-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 .tm-form input:-moz-placeholder,
 .tm-form textarea:-moz-placeholder,
 .tm-form select:-moz-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 .tm-form input::-moz-placeholder,
 .tm-form textarea::-moz-placeholder,
 .tm-form select::-moz-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 .tm-form input:-ms-input-placeholder,
 .tm-form textarea:-ms-input-placeholder,
 .tm-form select:-ms-input-placeholder {
-  color: #444444;
+  color: #000000;
 }
 
 .tm-form textarea {
@@ -3413,7 +3413,7 @@ button.tm-videobutton:hover span {
   display: block;
   font-weight: 400;
   font-size: 14px;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-navigation .tm-navigation-dropdown ul li.has-child::after {
@@ -3546,7 +3546,7 @@ button.tm-videobutton:hover span {
   display: block;
   font-weight: 400;
   font-size: 14px;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-navigation .tm-navigation-megamenu > ul ul li a:hover {
@@ -4078,7 +4078,7 @@ button.tm-videobutton:hover span {
   padding-left: 35px;
   line-height: 30px;
   font-size: 14px;
-  color: #444444;
+  color: #000000;
   -webkit-transition: all 0.3s ease-in-out 0s;
   -o-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s;
@@ -4093,7 +4093,7 @@ button.tm-videobutton:hover span {
   top: 7px;
   font-size: 16px;
   line-height: 1;
-  color: #444444;
+  color: #000000;
   -webkit-transition: all 0.3s ease-in-out 0s;
   -o-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s;
@@ -4140,7 +4140,7 @@ button.tm-videobutton:hover span {
 
 .tm-pricing-name {
   font-weight: 500;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-pricing-priceboxes {
@@ -4293,7 +4293,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-funfact-content h5 {
-  color: #444444;
+  color: #000000;
   margin-bottom: 0;
   font-weight: 400;
 }
@@ -4618,7 +4618,7 @@ button.tm-videobutton:hover span {
   margin-bottom: 0;
   font-size: 14px;
   font-weight: 400;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-testimonial-content p {
@@ -4744,7 +4744,7 @@ button.tm-videobutton:hover span {
   line-height: 33px;
   text-align: center;
   font-size: 18px;
-  color: #444444;
+  color: #000000;
   background: #ffffff;
   -webkit-transition: all 0.3s ease-in 0s;
   -o-transition: all 0.3s ease-in 0s;
@@ -5089,7 +5089,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-blog-meta span a {
-  color: #444444;
+  color: #000000;
 }
 
 .tm-blog-meta span a:hover {
@@ -5181,7 +5181,7 @@ button.tm-videobutton:hover span {
   vertical-align: middle;
   border: 1px solid #d2d2d5;
   padding: 6px 22px;
-  color: #444444;
+  color: #000000;
 }
 
 .blogitem-tags ul li a:hover {
@@ -5505,7 +5505,7 @@ button.tm-videobutton:hover span {
 }
 
 .widget-contact ul:not(.widget-contact-social) li a {
-  color: #444444;
+  color: #000000;
 }
 
 .widget-contact ul:not(.widget-contact-social) li a:hover {
@@ -5635,7 +5635,7 @@ button.tm-videobutton:hover span {
 
 .widget-recentpost-content span {
   font-size: 14px;
-  color: #444444;
+  color: #000000;
 }
 
 /* Widget Quicklinks */
@@ -5730,7 +5730,7 @@ button.tm-videobutton:hover span {
   display: block;
   font-size: 14px;
   font-weight: 400;
-  color: #444444;
+  color: #000000;
 }
 
 .widget-categories ul li a::after,
@@ -5765,7 +5765,7 @@ button.tm-videobutton:hover span {
 
 .widget-social li a {
   font-size: 18px;
-  color: #444444;
+  color: #000000;
 }
 
 .widget-social li a:hover {
@@ -5792,7 +5792,7 @@ button.tm-videobutton:hover span {
   vertical-align: middle;
   background: #f7f7f7;
   padding: 6px 22px;
-  color: #444444;
+  color: #000000;
 }
 
 .widget-tags ul li a:hover {
@@ -5814,7 +5814,7 @@ button.tm-videobutton:hover span {
   display: block;
   font-size: 14px;
   font-weight: 400;
-  color: #444444;
+  color: #000000;
 }
 
 .widget-size ul li a:hover {
@@ -6213,7 +6213,7 @@ button.tm-videobutton:hover span {
   font-size: 42px;
   display: inline-block;
   vertical-align: middle;
-  color: #444444;
+  color: #000000;
   margin-bottom: 20px;
 }
 
@@ -6611,7 +6611,7 @@ button.tm-videobutton:hover span {
 .tm-prodetails-color ul li a, .tm-prodetails-size ul li a, .tm-prodetails-categories ul li a, .tm-prodetails-tags ul li a, .tm-prodetails-share ul li a {
   display: inline-block;
   vertical-align: middle;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-prodetails-color ul li a:hover, .tm-prodetails-size ul li a:hover, .tm-prodetails-categories ul li a:hover, .tm-prodetails-tags ul li a:hover, .tm-prodetails-share ul li a:hover {
@@ -6811,7 +6811,7 @@ button.tm-videobutton:hover span {
 
 .tm-cart-table .tm-cart-totalprice {
   font-weight: 700;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-cart-table .tm-cart-removeproduct {
@@ -6881,7 +6881,7 @@ button.tm-videobutton:hover span {
 .tm-cart-pricebox table td {
   padding: 0;
   font-size: 16px;
-  color: #444444;
+  color: #000000;
 }
 
 .tm-cart-pricebox table .tm-cart-pricebox-shipping td {
