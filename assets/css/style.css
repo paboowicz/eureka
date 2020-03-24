@@ -495,7 +495,7 @@ h6,
 .h5,
 .h6 {
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #000000;
 }
 
 h1,
@@ -2341,7 +2341,7 @@ button.tm-videobutton:hover span {
   height: auto;
   width: 40px;
   display: inline-block;
-  color: #333333;
+  color: #000000;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -2429,7 +2429,7 @@ button.tm-videobutton:hover span {
   text-align: center;
   padding: 0 35px;
   background: #ebebeb;
-  color: #333333;
+  color: #000000;
   font-size: 18px;
   font-weight: 700;
 }
@@ -2720,7 +2720,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-comment-content h6 a {
-  color: #333333;
+  color: #000000;
 }
 
 .tm-comment-content h6 a:hover {
@@ -3079,7 +3079,7 @@ button.tm-videobutton:hover span {
 .header-icons ul li a {
   display: inline-block;
   color: #373737;
-  border: 1px solid #333333;
+  border: 1px solid #000000;
   border-radius: 100px;
   font-size: 20px;
   height: 35px;
@@ -3270,7 +3270,7 @@ button.tm-videobutton:hover span {
   margin-top: -64px;
   height: 33px;
   width: 33px;
-  border: 1px solid #333333;
+  border: 1px solid #000000;
   border-radius: 1000px;
   line-height: 33px;
   text-align: center;
@@ -4488,7 +4488,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-service h5 a {
-  color: #333333;
+  color: #000000;
 }
 
 .tm-service h5 a:hover {
@@ -4792,7 +4792,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-product-title a {
-  color: #333333;
+  color: #000000;
 }
 
 .tm-product-title a:hover {
@@ -5105,7 +5105,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-blog-bottom h5 a {
-  color: #333333;
+  color: #000000;
 }
 
 .tm-blog-bottom h5 a:hover {
@@ -5374,7 +5374,7 @@ button.tm-videobutton:hover span {
   padding-left: 75px;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #000000;
   line-height: 28px;
   font-weight: 500;
   text-decoration: none !important;
@@ -5626,7 +5626,7 @@ button.tm-videobutton:hover span {
 }
 
 .widget-recentpost-content h6 a {
-  color: #333333;
+  color: #000000;
 }
 
 .widget-recentpost-content h6 a:hover {
@@ -5750,7 +5750,7 @@ button.tm-videobutton:hover span {
 .widget-categories ul li a:hover,
 .widget-archives ul li a:hover,
 .widget-serviceitems ul li a:hover {
-  color: #333333;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -5818,7 +5818,7 @@ button.tm-videobutton:hover span {
 }
 
 .widget-size ul li a:hover {
-  color: #333333;
+  color: #000000;
   font-weight: 700;
   padding-left: 13px;
 }
@@ -5848,7 +5848,7 @@ button.tm-videobutton:hover span {
 
 .widget-pricefilter-button {
   display: inline-block;
-  color: #333333;
+  color: #000000;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
@@ -5967,7 +5967,7 @@ button.tm-videobutton:hover span {
 }
 
 .widget-popularproduct-content h6 a {
-  color: #333333;
+  color: #000000;
 }
 
 .widget-popularproduct-content h6 a:hover {
@@ -6547,7 +6547,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-prodetails-title a {
-  color: #333333;
+  color: #000000;
 }
 
 .tm-prodetails-title a:hover {
@@ -6567,7 +6567,7 @@ button.tm-videobutton:hover span {
   margin-bottom: 20px;
   font-size: 22px;
   font-weight: 700;
-  color: #333333;
+  color: #000000;
 }
 
 .tm-prodetails-price del {
@@ -6768,7 +6768,7 @@ button.tm-videobutton:hover span {
 
 .tm-cart-table tr th {
   text-transform: uppercase;
-  color: #333333;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -6801,7 +6801,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-cart-table .tm-cart-productname {
-  color: #333333;
+  color: #000000;
   font-weight: 600;
 }
 
@@ -6889,7 +6889,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-cart-pricebox table .tm-cart-pricebox-total td {
-  color: #333333;
+  color: #000000;
   font-weight: 700;
   font-size: 22px;
   padding-top: 20px;
@@ -6914,7 +6914,7 @@ button.tm-videobutton:hover span {
   background: transparent;
   padding: 13px 20px;
   font-size: 14px;
-  color: #333333;
+  color: #000000;
   border: 5px solid transparent;
   border-left: 5px solid #0075b7;
   -webkit-box-shadow: 0px 3px 6px 2px rgba(0, 0, 0, 0.1);
@@ -7003,7 +7003,7 @@ button.tm-videobutton:hover span {
 }
 
 .tm-checkout-subtotal td + td, .tm-checkout-shipping td + td {
-  color: #333333;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -7025,7 +7025,7 @@ button.tm-videobutton:hover span {
 .tm-checkout-payment label {
   margin-bottom: 0;
   display: block;
-  color: #333333;
+  color: #000000;
   font-weight: 700;
 }
 
