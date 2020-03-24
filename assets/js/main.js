@@ -66,6 +66,8 @@
 
 
 
+$( window ).on( "load", function() { 
+
 (function ($) {
     'use strict';
 
@@ -744,3 +746,5 @@
 
 
 })(jQuery);
+
+} );
