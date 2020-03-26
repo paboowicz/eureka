@@ -779,6 +779,34 @@ blockquote footer a:hover {
   vertical-align: middle;
 }
 
+.stylish-list2, .stylish-list-color2 {
+  padding-left: 0;
+  display: block;
+}
+
+.stylish-list2 li, .stylish-list-color2 li {
+  list-style: none;
+  line-height: 17px;
+  position: relative;
+  padding-left: 30px;
+}
+
+.stylish-list2 li::before, .stylish-list-color2 li::before {
+  content: "\f26f";
+  font-family: 'Material-Design-Iconic-Font';
+  position: absolute;
+  left: 0;
+  top: 7px;
+  font-size: 14px;
+  line-height: 1;
+  color: #dc3545;
+}
+
+.stylish-list-color2 li::before {
+  color: #0075b7;
+}
+
+
 .stylish-list, .stylish-list-color {
   padding-left: 0;
   display: block;
