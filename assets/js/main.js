@@ -551,20 +551,7 @@ $( window ).on( "load", function() {
             });
         },
 		
-		/* Scroll Down Active */
-        scrollDownActive: function () {
-            $.scrollDown({
-                scrollName: 'scrollDown',
-                topDistance: '300',
-                topSpeed: 1000,
-                animation: 'fade',
-                animationInSpeed: 1000,
-                animationOutSpeed: 1000,
-                scrollText: '<i class="zmdi zmdi-long-arrow-down"></i>',
-                activeOverlay: false,
-            });
-        },
-
+		
 
         /* Sticky Header */
         stickyHeader: function () {
@@ -740,7 +727,6 @@ $( window ).on( "load", function() {
             dialia.differentAddressFormToggle();
             dialia.checkoutPaymentMethod();
             dialia.scrollUpActive();
-			dialia.scrollDownActive();
             dialia.stickyHeader();
             dialia.parallaxActive();
             dialia.videoBackgroundActive();
